@@ -26,7 +26,7 @@ notes/ # Design notes, troubleshooting, TODOs
 
 ## Why I Built This
 
-As a Security Administrator transitioning into an engineering role, I'm building this toolkit to solve common infrastructure problems and prove hands-on automation capability using PowerShell.
+I am a Security Administrator with experience in engineering, excited to build this toolkit to solve common infrastructure problems and prove hands-on automation capability using PowerShell.
 
 ## Current Progress
 
