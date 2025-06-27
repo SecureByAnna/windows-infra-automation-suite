@@ -32,9 +32,9 @@ I am a Security Administrator with experience in engineering, excited to build t
 
 | Module               | Description                            | Status     |
 |----------------------|----------------------------------------|------------|
-| server_inventory.ps1 | Collects system info from remote hosts | In progress |
-| service_monitor.ps1  | Detects stopped services               | Planned    |
-| gpo_analyzer.ps1     | Lists and analyzes GPO links           | Planned    |
+| server_inventory.ps1 | Collects system info from remote hosts | Completed |
+| service_monitor.ps1  | Detects stopped services               | Completed   |
+| gpo_analyzer.ps1     | Lists and analyzes GPO links           | In Progress   |
 
 ---
 
