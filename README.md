@@ -30,12 +30,14 @@ I am a Security Administrator with experience in engineering, excited to build t
 
 ## Current Progress
 
-| Module               | Description                            | Status     |
-|----------------------|----------------------------------------|------------|
-| server_inventory.ps1 | Collects system info from remote hosts | Completed |
-| service_monitor.ps1  | Detects stopped services               | Completed   |
-| gpo_analyzer.ps1     | Lists and analyzes GPO links           | In Progress   |
-
+| Script Name                 | Description                                      | Status      |
+|----------------------------|--------------------------------------------------|-------------|
+| service_monitor.ps1        | Monitor Windows services and alert on stopped   | Completed   |
+| server_inventory.ps1       | Collect basic server information for audit      | Completed   |
+| scheduled_task_audit.ps1   | Audit all scheduled tasks and export to CSV     | Completed   |
+| disable_inactive_users.ps1 | Auto-disable stale AD accounts                  | Planned     |
+| audit_group_membership.ps1 | Generate AD group membership reports            | Planned     |
+| find_duplicate_users.ps1   | Detect and report duplicate user accounts       | In Progress |
 ---
 
 Let’s automate everything. 💻⚙️  
